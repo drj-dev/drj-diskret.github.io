@@ -43,4 +43,4 @@ layout: default
   </div>
 </div>
 
-<footer><a href="/standards" class="footer-link">Principles & Standards.</a></footer>
+<footer><a href="/principles" class="footer-link">Principles</a></footer>
