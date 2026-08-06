@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <div class="business-name">Principles & Standards</div>
+  <div class="business-name">Principles</div>
   <div class="divider"></div>
 </header>
 
