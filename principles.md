@@ -13,7 +13,7 @@ layout: default
 
   <p><strong>Discretion.</strong> Access and knowledge come with responsibility.</p>
 
-  <p><strong>Curiosity.</strong> Understand before changing. Question before trusting.</p>
+  <p><strong>Curiosity.</strong> Question before trusting. Understand before changing.</p>
   
 </div>
 
